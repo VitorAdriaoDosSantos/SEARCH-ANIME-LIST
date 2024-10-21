@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+section{
+    display: flex;
+    margin: 50px; 
+}
+/*define o layout dos elementos filhos da tag <section>*/
+/*
+section: Seleciona todos os elementos <section> no documento.
+>: É um seletor de descendente. Ele seleciona todos os elementos que são filhos diretos do elemento <section>.
+*: É um seletor curinga. Ele seleciona todos os elementos que são filhos diretos do elemento <section>,
+independentemente do tipo de elemento (por exemplo, <div>, <p>, <img>, etc.).
+*/
+section > * {
+    margin: 0 10px;  
+}
+body{
+    background-color: rgb(65, 123, 147);
+    font-family:"Poppins" ;
+}
+header{
+   text-align: center;
+   color: beige; 
+}
+aside{
+    border-bottom: 2px dotted white ;
+    padding-bottom: 30px;
+}
+aside div {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+}
+aside div > * {
+   padding: 5px;
+   margin: 5px;
+}
+.divImg{
+    box-shadow: 0 10px black;
+    box-shadow: 0 0 15px  black;
+}
+.divImg img{
+    vertical-align: middle;
+}
+.divTxt{
+    text-align: center;
+    box-shadow: 0 0 15px  black;
+    padding: 10px;
+    background-color: white;
+    position: relative;
+}
+.divTxt >*{
+    margin-top: 10px;
+    padding: 10px; 
+}
+.divTxt h2{
+   background-color: rgb(43, 69, 80);
+   color: white;
+   border: 2px solid rgb(197, 197, 197);
+}
+.divTxt h4{
+    padding: 15px;
+    background-color: rgb(224, 224, 226);
+    letter-spacing: 1px;
+}
+ .divTxt h5{
+    padding: 15px;
+    background-color: rgb(237, 237, 237);
+    letter-spacing: 1px;
+}
+button {
+    display: inline-block;
+    width: 150px;
+    height: 40px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    font-family: "Poppins";
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+button:hover {
+    background-color: #0056b3;
+}
+button:focus {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+.btnView {
+    width: 150px;
+    height: 40px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    background-color: #fd0000;
+    color: #fff;
+    font-family: "Poppins";
+    font-size: 16px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s; 
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+  .btnView:hover {
+    background-color: #ae0000;
+} 
+.btnView:focus {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+
+@media screen and (max-width: 1000px){
+  section{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+  }
+  .divTxt{
+   margin: 20px 0;
+  }
+  .divImg{
+    width: 100%;
+  }
+  img{
+    width: 100%;
+  }
+}
