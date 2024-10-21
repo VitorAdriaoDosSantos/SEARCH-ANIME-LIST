@@ -1,0 +1,79 @@
+[
+    {
+        "name": "akira",
+        "description": "A huge explosion caused Tokyo to be destroyed in 1988. In its place, Neo Tokyo was built, which, in 2019, suffered from terrorist attacks throughout the city. Friends Kaneda and Tetsuo are part of a motorcycle gang.",  
+        "episode": 100,
+        "categorie":[" Cyberpunk and derivatives " , " Action "],
+        "img": "akira.jpg"
+    },
+    {
+        "name": "dr.stone",
+        "description": "Aiju, a typical Japanese student, tells his science-loving friend Senku that he is finally about to confess to Yuzuriha, with whom he has been secretly in love for five years. Finding themselves under a camphor tree on the school grounds, just as Taiju is about to confess, a bright light appears in the sky. Taiju pushes Yuzuriha into the tree to protect her, but the light suddenly petrifies all of humanity, with every human on Earth turning to stone.",  
+        "episode": 57,
+        "categorie":[" Science fiction "," Action "],
+        "img": "dr.stone.jpg"
+    },    
+    {
+        "name": "dragon ball z",
+        "description": "Dragon Ball Z follows the adventures of Goku and his friends as they defend Earth from powerful foes and explore the universe. The series revolves around epic battles, the search for powerful Dragon Balls, and the constant evolution of characters through intense training. Goku, the Saiyan warrior, faces formidable enemies like Frieza, Cell, and Buu, ultimately striving to protect the planet and achieve new levels of strength.",  
+        "episode": 291,
+        "categorie":" Action ",
+        "img": "dragon ball z.jpg"
+    },    {
+        "name": "neon genesis evangelion",
+        "description": "In a post-apocalyptic world threatened by mysterious beings known as Angels, a group of young pilots is recruited to operate giant biomechanical robots and defend humanity. As they grapple with their own personal struggles and relationships, they must confront the enigmatic nature of their mission and the existential mysteries surrounding the Angels. The story unfolds as the protagonists navigate a complex narrative filled with psychological and philosophical themes, leading to a climactic battle for the fate of humanity.",  
+        "episode": 26,
+        "categorie":["Science fiction","Philosophical fiction","Fantasy","Mystery"],
+        "img": "neon genesis evangelion.jpg"
+    },    {
+        "name": "fire force",
+        "description": "In a world where spontaneous human combustion turns individuals into destructive infernals, special fire brigades, known as Fire Force, battle these supernatural flames. As young firefighter Shinra Kusakabe joins Company 8, he discovers a conspiracy behind the phenomenon, unveiling a dark truth that threatens the existence of humanity. As the brigade confronts powerful foes and uncovers the mysteries surrounding spontaneous combustion, Shinra strives to become a hero and protect the world from the fiery menace.",  
+        "episode":48 ,
+        "categorie":["Fantasy", "Action"],
+        "img": "fire force.jpg"
+    },    {
+        "name": "hajime no ippo",
+        "description": "the journey of a determined young boxer named Ippo Makunouchi as he strives to overcome challenges and make a name for himself in the competitive world of boxing. Through intense training, personal growth, and unforgettable matches, Ippo faces both physical and emotional obstacles on his path to becoming a champion. The series explores themes of perseverance, friendship, and the indomitable spirit of a boxer chasing his dreams.",  
+        "episode": 76,
+        "categorie":["Fantasy", "Action"],
+        "img": "hajime no ippo.jpg"
+    },    {
+        "name": "hunter x hunter",
+        "description": "Gon Freecss, a young boy aspiring to become a Hunter and find his missing father. Along the way, he forms deep connections with friends like Killua Zoldyck and faces challenges in the form of deadly creatures and complex exams. The story unfolds with intricate Nen abilities, political intrigue, and the pursuit of personal goals in a captivating and unpredictable world.",  
+        "episode": 148,
+        "categorie":["Fantasy", "Action"],
+        "img": "hunter x hunter.jpg"
+    },    {
+        "name": "jojo bizzare adventure",
+        "description": "A lineage of heroes with unique abilities, called Stands, face supernatural threats across generations. Each protagonist, bound by family ties, embarks on a global journey to defeat powerful villains, uncover mysteries and protect mystical relics. With intense twists and creative battles, the saga unfolds through different eras, exploring the limits of power and friendship.",  
+        "episode": 190,
+        "categorie":"Fantasy",
+        "img": "jojo bizarre adventure.jpg"
+    },    {
+        "name": "jujutsu kaisen",
+        "description": "In a world where cursed spirits thrive on human fear, a high school student discovers a mysterious talisman that unleashes ancient, deadly curses. Faced with impending doom, he joins forces with a group of skilled sorcerers to combat the malevolent forces. As they delve deeper into the supernatural realm, friendships are tested, and the line between ally and enemy becomes blurred. The fate of humanity hangs in the balance as they confront a formidable and insidious curse threatening to consume the world.",  
+        "episode":47,
+        "categorie":["Fantasy", "Action"],
+        "img": "jujutsu no kaisen.jpg"
+    },    {
+        "name": "my neighbor totoro",
+        "description": "In a quaint countryside, two curious siblings discover a magical forest filled with enchanting creatures. As they befriend whimsical spirits, the siblings embark on a heartwarming journey, unraveling the mysteries of nature and forging unbreakable bonds. Together, they navigate the wonders of their new world, learning valuable lessons about friendship, family, and the beauty of the unseen.",  
+        "episode": 100,
+        "categorie":"Fantasy",
+        "img": "my neighbor totoro.jpg"
+    },    {
+        "name": "frieren beyoud journey's end ",
+        "description": "The story follows elven mage Frieren, a former member of the party of adventurers who defeated the Demon King and restored harmony to the world after a ten-year quest. In the past, the heroic group included Frieren, human hero Himmel, dwarven warrior Eisen and human priest Heiter. Before they part, they observe the Era Meteors together, a meteor shower that occurs once in fifty years. Frieren agrees to see them again and offers them a better view the next time the celestial event occurs. Frieren then departs and travels the world in pursuit of magical knowledge.",  
+        "episode": 21 ,
+        "categorie":[ "Mystery","Fantasy","Philosophical fiction"],
+        "img": "frieren beyond journey's end.jpg"
+    },
+    {
+        "name": "fullmetal alchemist",
+        "description": "Two alchemists, brothers in search of the Philosopher's Stone to restore their bodies lost in a forbidden experiment. They face danger, uncover dark government secrets, and face other tormented souls as they seek redemption. The price of alchemy haunts them, but the journey reveals that the true value lies in the strength of family ties and sacrifice for the greater good.",  
+        "episode": 130,
+        "categorie":["Science fiction","Philosophical fiction","Action","Mystery"],
+        "img": "fullmetal alchemist.jpg"
+    }
+
+]
